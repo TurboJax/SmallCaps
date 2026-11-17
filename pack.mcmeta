@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "small_caps font for servers",
+    "min_format": 4,
+    "max_format": 999
+    "supported_formats": [18, 999]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "post_1_20",
+        "min_format": 18,
+        "max_format": 999,
+        "formats": [18, 999]
+      }
+    ]
+  }
+}

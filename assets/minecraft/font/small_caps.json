@@ -1,0 +1,15 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/small_caps.png",
+      "ascent": 7,
+      "chars": [
+        "abcdefghijklm",
+        "nopqrstuvwxyz",
+        "ABCDEFGHIJKLM",
+        "NOPQRSTUVWXYZ"
+      ]
+    }
+  ]
+}
